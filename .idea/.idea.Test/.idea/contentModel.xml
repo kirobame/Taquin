@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Biaulet\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Biaulet\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Test.1029200389.00" t="ExcludeRecursive" />
+    <e p="E:\Work\Unity\Test" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="SceneTransitionSystem" t="Include">
+          <e p="SceneTransitionSystemAssembly.asmdef" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="SceneTransitionSystemAssemblyEditor.asmdef" t="Include" />
+              <e p="STSEffectPreview.cs" t="Include" />
+              <e p="STSEffectTypeEditor.cs" t="Include" />
+              <e p="STSIntermissionEditor.cs" t="Include" />
+              <e p="STSSceneEditor.cs" t="Include" />
+              <e p="STSSceneManagerEditor.cs" t="Include" />
+              <e p="STSTransitionEditor.cs" t="Include" />
+            </e>
+            <e p="Effects" t="Include">
+              <e p="Fade" t="Include">
+                <e p="STSEffectCurveFade.cs" t="Include" />
+                <e p="STSEffectCurveFadeGradient.cs" t="Include" />
+                <e p="STSEffectFade.cs" t="Include" />
+                <e p="STSEffectFadeGradient.cs" t="Include" />
+              </e>
+              <e p="STSEffectBlockGrow.cs" t="Include" />
+              <e p="STSEffectCheckout.cs" t="Include" />
+              <e p="STSEffectCircleRandom.cs" t="Include" />
+              <e p="STSEffectOctoRandom.cs" t="Include" />
+              <e p="STSEffectRadiantBlock.cs" t="Include" />
+              <e p="STSEffectSlushBlock.cs" t="Include" />
+              <e p="STSEffectWahoo.cs" t="Include" />
+            </e>
+            <e p="Engine" t="Include">
+              <e p="AudioListener" t="Include">
+                <e p="STSAudioListener.cs" t="Include" />
+              </e>
+              <e p="Controllers" t="Include">
+                <e p="STSSceneButton.cs" t="Include" />
+                <e p="STSSceneController.cs" t="Include" />
+                <e p="STSSceneIntermissionController.cs" t="Include" />
+              </e>
+              <e p="Datas" t="Include">
+                <e p="STSScene.cs" t="Include" />
+                <e p="STSScenesPackage.cs" t="Include" />
+                <e p="STSTransitionData.cs" t="Include" />
+              </e>
+              <e p="EffectBase" t="Include">
+                <e p="STSEffectMoreInfos.cs" t="Include" />
+                <e p="STSEffectType.cs" t="Include" />
+                <e p="STSMatrix.cs" t="Include" />
+              </e>
+              <e p="Gauge" t="Include">
+                <e p="STSScreenGauge.cs" t="Include" />
+              </e>
+              <e p="SceneManager" t="Include">
+                <e p="STSSceneManager.cs" t="Include" />
+                <e p="STSSceneManager_ActiveScene.cs" t="Include" />
+                <e p="STSSceneManager_LoadScene.cs" t="Include" />
+                <e p="STSSceneManager_Navigation.cs" t="Include" />
+                <e p="STSSceneManager_PlayEffect.cs" t="Include" />
+                <e p="STSSceneManager_UnityFacility.cs" t="Include" />
+              </e>
+              <e p="SharedInstanceGeneric" t="Include">
+                <e p="STSSharedInstance.cs" t="Include" />
+              </e>
+              <e p="SingletonGeneric" t="Include">
+                <e p="STSSingletonUnity.cs" t="Include" />
+              </e>
+              <e p="STSInterfaceHelper.cs" t="Include" />
+              <e p="STSIntermission.cs" t="Include" />
+              <e p="STSIntermissionInterface.cs" t="Include" />
+              <e p="STSTransition.cs" t="Include" />
+              <e p="STSTransitionInterface.cs" t="Include" />
+              <e p="Tools" t="Include">
+                <e p="STSBenchmark .cs" t="Include" />
+                <e p="STSConstants.cs" t="Include" />
+                <e p="STSDateHelper.cs" t="Include" />
+                <e p="STSDelegate.cs" t="Include" />
+                <e p="STSDrawCircle.cs" t="Include" />
+                <e p="STSDrawing.cs" t="Include" />
+                <e p="STSDrawLine.cs" t="Include" />
+                <e p="STSDrawQuad.cs" t="Include" />
+                <e p="STSDrawTriangle.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="STSFindPackage.cs" t="Include" />
+          <e p="STSMacroDefine.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Core" t="Include">
+            <e p="EmptyPart.cs" t="Include" />
+            <e p="IPart.cs" t="Include" />
+            <e p="Part.cs" t="Include" />
+            <e p="ScoreDisplay.cs" t="Include" />
+            <e p="SlicedImage.cs" t="Include" />
+            <e p="Taquin.cs" t="Include" />
+            <e p="Timer.cs" t="Include" />
+          </e>
+          <e p="Gamefeel" t="Include">
+            <e p="Background.cs" t="Include" />
+            <e p="Bubble.cs" t="Include" />
+            <e p="LooseHandler.cs" t="Include" />
+            <e p="WinHandler.cs" t="Include" />
+          </e>
+          <e p="Management" t="Include">
+            <e p="Bootstrapper.cs" t="Include" />
+            <e p="GameState.cs" t="Include" />
+            <e p="Manager.cs" t="Include" />
+            <e p="SceneIntermediary.cs" t="Include" />
+            <e p="SceneName.cs" t="Include" />
+            <e p="TaquinEvent.cs" t="Include" />
+          </e>
+          <e p="Utilities" t="Include">
+            <e p="EventWrapper.cs" t="Include" />
+            <e p="Extensions.cs" t="Include" />
+            <e p="ISwappable.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SceneTransitionSystemAssembly.csproj" t="IncludeRecursive" />
+      <e p="SceneTransitionSystemAssemblyEditor.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Test.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

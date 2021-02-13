@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10afedb5a7df46aeaa55a36ffe69291c, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  size: 3
+  slices:
+  - {fileID: -6826964375383689676, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}
+  - {fileID: 7561435541835316104, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}
+  - {fileID: -2365776466506442920, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}
+  - {fileID: 3580439960523827304, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}
+  - {fileID: -3903374058511980493, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}
+  - {fileID: 7972683419617356236, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}
+  - {fileID: 3407236045874126580, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}
+  - {fileID: 2751296954781866459, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}
+  - {fileID: -342658090760380595, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}
+  goal: {fileID: 4031295264398667315, guid: 06575e01eec8d4f4ca236ab59155f81b, type: 3}

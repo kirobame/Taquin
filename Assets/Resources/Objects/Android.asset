@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10afedb5a7df46aeaa55a36ffe69291c, type: 3}
+  m_Name: Android
+  m_EditorClassIdentifier: 
+  size: 3
+  slices:
+  - {fileID: -24405494245787641, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}
+  - {fileID: 7501980283292301480, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}
+  - {fileID: 4228060714223496325, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}
+  - {fileID: -3278511692129839449, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}
+  - {fileID: -1165241599591563190, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}
+  - {fileID: -8610517766104442528, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}
+  - {fileID: -2861030028575497659, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}
+  - {fileID: 7331020210764273491, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}
+  - {fileID: 1190659444527611778, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}
+  goal: {fileID: -871251091435130853, guid: 9259eb518f0a9c540aa55ca6b6dea312, type: 3}

@@ -1,2 +1,2 @@
 # Taquin
-Unity &amp; C# - Exercise
+Unity & C# - Exercise
